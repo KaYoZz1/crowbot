@@ -1,2 +1,1 @@
-# crowbot
-Ceci et le code du crow bot ancien non nouveau.
+Pour lancer le crow bot il vous suffit d'aller dans .env mettre son token son id pour bien être l'owner du bot après avoir fait ça, il vous suffit d'appuyer sur start et le bot sera lancer, des fois le bot bug donc s'il ne marche, ferme la page cmd (start) et relancer.
